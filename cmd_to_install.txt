@@ -1,0 +1,1 @@
+pip install -r ~/Documents/regular_libraries/regular_ds_libs.txt
