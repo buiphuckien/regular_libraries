@@ -1,1 +1,8 @@
-pip install -r ~/Documents/regular_libraries/regular_ds_libs.txt
+Install requirements packages:
+    pip install -r ~/Documents/regular_libraries/regular_ds_libs.txt
+
+Install python virtual environment:
+    python3 -m venv <venv_name>
+
+Activate environment:
+    source <venv_name/bin/actiavte>
